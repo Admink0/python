@@ -1,4 +1,4 @@
-# [![Вернуться в репозиторий](https://png.icons8.com/color/50/000000/github-2.png)](https://github.com/pythonmiigaik/pythonmiigaik.github.io/) Репозиторий курсов по Python
+# [![Вернуться в репозиторий](https://png.icons8.com/color/50/000000/github-2.png)] Репозиторий курсов по Python
 
 ## Домашние задания по курсу
 #### Задание №1 для лекции №2
